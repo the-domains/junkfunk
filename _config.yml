@@ -1,0 +1,28 @@
+name: junkfunk
+favicon: null
+layout_spectrum: 0.32247681892476976
+typography_spectrum: 0.4604194301646203
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.3208416474517435
+  lightness: 0.6787059970665723
+  saturation: 0.8955947656650096
+  rhythmicContrast: 0.19760960433632135
+purpose: []
