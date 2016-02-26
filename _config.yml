@@ -1,7 +1,7 @@
 name: junkfunk
 favicon: null
-layout_spectrum: 0.32247681892476976
-typography_spectrum: 0.4604194301646203
+layout_spectrum: 0.97495
+typography_spectrum: 0.03322
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#C8ACAB'
     - '#FBB9BF'
     - '#E376B7'
-  brandStrength: 0.3208416474517435
-  lightness: 0.6787059970665723
+  brandStrength: 0.25
+  lightness: 0.9375
   saturation: 0.8955947656650096
   rhythmicContrast: 0.19760960433632135
 purpose: []
